@@ -4,7 +4,7 @@
 
 Please import Appach common CollectionUtils before use this object.
 
-### example: 
+### Example: 
 ```java
 CollectionUtils.filter(Collection, AnyElementNotNullPredicate.anyElementNotNullPredicate());  
 ```
